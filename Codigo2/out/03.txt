@@ -1,0 +1,5 @@
+Insira um numero negativo para parar.
+Insira o numero: 
+Insira o numero: 
+A soma dos 1 numeros digitados e: 18
+A media dos 1 numeros digitados e: 18

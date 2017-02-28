@@ -1,0 +1,2 @@
+Para parar insira o numero 0.
+insira o numero: insira o numero: insira o numero: insira o numero: insira o numero: insira o numero: insira o numero: Dos 6 numeros digitados 4 sao pares. E 2 sao impares.

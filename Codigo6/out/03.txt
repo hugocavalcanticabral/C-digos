@@ -1,0 +1,3 @@
+Insira o coeficiente 'a': Insira o coeficiente 'b': Insira o coeficiente 'c': As raizes da equacao: (1x^2) +(-12x) + (32)
+
+8  e  4

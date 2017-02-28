@@ -1,0 +1,1 @@
+insira o numero: 5! = 120

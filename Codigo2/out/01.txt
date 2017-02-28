@@ -1,0 +1,6 @@
+Insira um numero negativo para parar.
+Insira o numero: 
+Insira o numero: 
+Insira o numero: 
+A soma dos 2 numeros digitados e: 6
+A media dos 2 numeros digitados e: 3

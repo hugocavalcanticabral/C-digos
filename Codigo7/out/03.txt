@@ -1,0 +1,2 @@
+Parar se inserir dimensoes negativas.
+Insira a base do retangulo 1 :Insira a altura do retangulo 1 :Insira a base do retangulo 2 :Insira a altura do retangulo 2 :Insira a base do retangulo 3 :Insira a altura do retangulo 3 :Insira a base do retangulo 4 :Insira a altura do retangulo 4 :Insira a base do retangulo 5 :Insira a altura do retangulo 5 :Maior area: 2925 Essa area e a do retangulo: 2

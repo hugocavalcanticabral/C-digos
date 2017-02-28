@@ -1,0 +1,9 @@
+Insira um numero negativo para parar.
+Insira o numero: 
+Insira o numero: 
+Insira o numero: 
+Insira o numero: 
+Insira o numero: 
+Insira o numero: 
+A soma dos 5 numeros digitados e: 30
+A media dos 5 numeros digitados e: 6
